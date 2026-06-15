@@ -1,82 +1,144 @@
-# Hi, I'm Diya 👋
+<div align="center">
 
-I'm a Computer Science student passionate about building software and solving real-world problems.
+# Diya Garg
 
-I enjoy working across the stack—from backend APIs and databases to frontend interfaces—and continuously improving my problem-solving skills through data structures, algorithms, and competitive programming.
+Computer Science Student at Thapar Institute of Engineering and Technology
 
-## 🚀 What I Do
+Building software with Kotlin, Python, C++, SQL and modern web technologies.
 
-* Build full-stack web applications
-* Develop backend services and APIs
-* Work with databases and data modeling
-* Practice DSA and LeetCode
-* Explore modern software engineering tools and workflows
+Open to internships, remote opportunities and open-source collaboration.
 
-## 🛠 Tech Stack
+[Portfolio](https://diyagarg.co.in) • [LinkedIn](https://www.linkedin.com/in/diyagarg16/) • [GitHub](https://github.com/diya0116) • [Email](mailto:diyagarg161@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I am a Computer Science undergraduate at Thapar Institute of Engineering and Technology with interests in software development, Android applications, databases, and product-focused problem solving.
+
+Currently, I am expanding my development skills through JavaScript, React, and Node.js while continuing to strengthen my foundation in Data Structures, Algorithms, Database Management Systems, and Software Engineering.
+
+* B.E. Computer Science, TIET (2024–2028)
+* CGPA: 8.94
+* App Developer Intern at Humble Coders
+* Executive Member at ACM Thapar
+* Core Member at Google Developer Student Club (GDSC)
+
+---
+
+## Tech Stack
 
 ### Languages
 
-C • C++ • Python • JavaScript
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=mysql)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge\&logo=kotlin)
 
-### Frontend
+### Web Development
 
-HTML • CSS • React
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-Learning-000000?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-000000?style=for-the-badge\&logo=node.js)
 
-### Backend
+### Mobile Development
 
-Node.js • Express
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge\&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge)
 
-### Databases
+### Database & Tools
 
-MySQL • PostgreSQL • MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma)
 
-### Tools
+---
 
-Git • GitHub • Docker • Linux
+## Featured Projects
 
-## 📌 Featured Projects
+### Portfolio Web
 
-### Project 1
+Personal portfolio website showcasing projects, skills, experience and technical journey.
 
-Short description of what it does and the problem it solves.
+### Laundrify
 
-### Project 2
+A smart laundry management application designed for hostel and student environments with workflow tracking and service management.
 
-Short description of what it does and the technologies used.
+### Flight Flow
 
-### Project 3
+Relational database management system for flight scheduling, booking operations and passenger record management.
 
-Short description of what makes it interesting.
+### Student Performance Tracker
 
-## 🌱 Currently Learning
+Android application built using Kotlin and Jetpack Compose for monitoring academic progress and performance insights.
 
-* Advanced Backend Development
-* System Design Fundamentals
-* Data Structures & Algorithms
-* Open Source Contributions
+---
 
-## 📫 Connect With Me
+## Experience
 
-LinkedIn: your-linkedin-url
+### App Developer Intern — Humble Coders
 
-Email: your-email
+* Developed Android features using Kotlin and Jetpack Compose
+* Improved application responsiveness and user experience
+* Collaborated with developers and designers on product features
 
-GitHub: your-github-url
+### Workshop Conductor — ACM Thapar
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+* Conducted Android Application Development workshop
+* Delivered live coding demonstrations
+* Guided 200+ students through hands-on development sessions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+* JavaScript
+* React
+* Node.js
+* Backend Development
+* Data Structures and Algorithms
+* Open Source Contribution
 
-[![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Full+Stack+Developer;Backend+Developer;Problem+Solver;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+## GitHub Analytics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Full+Stack+Developer;Backend+Developer;Problem+Solver;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diya0116&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya0116&layout=compact&theme=transparent" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diya0116&theme=transparent" />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diya0116&theme=github-compact" />
+</p>
+
+---
+
+## LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/diya0116?theme=dark&font=Karma" />
+</p>
+
+---
+
+## Connect
+
+* Portfolio: https://diyagarg.co.in
+* LinkedIn: https://www.linkedin.com/in/diyagarg16/
+* GitHub: https://github.com/diya0116
+* Email: [diyagarg161@gmail.com](mailto:diyagarg161@gmail.com)
+
+---
+
+"Consistency compounds. Every project teaches something the previous one couldn't."
