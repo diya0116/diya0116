@@ -82,13 +82,13 @@ Android application built using Kotlin and Jetpack Compose for monitoring academ
 
 ## Experience
 
-### App Developer Intern — Humble Coders
+### App Developer Intern - Humble Coders
 
 * Developed Android features using Kotlin and Jetpack Compose
 * Improved application responsiveness and user experience
 * Collaborated with developers and designers on product features
 
-### Workshop Conductor — ACM Thapar
+### Workshop Conductor - ACM Thapar
 
 * Conducted Android Application Development workshop
 * Delivered live coding demonstrations
